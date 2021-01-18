@@ -1,0 +1,3 @@
+# Project Overview
+
+Electroencephalogram(EEG)iswidelyusedformedicalprofessionalstoidentifypossiblebraindisorders. However, manual EEG report creation can be time-consuming and error-prone. To combat these issues, we proposed an automatic approach to generate EEG reports using Transformers. We named our model EEG Transformers, and it consists of three parts: the EEG encoder, the Transformer encoder, and the Transformer decoder. Although our model has not achieved state-of-the-art performance, it still produces promising results. All of the works described in this report are done specifically for this class and will be extended into the future.
